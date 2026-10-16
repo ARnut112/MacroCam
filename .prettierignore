@@ -1,0 +1,7 @@
+node_modules
+.next
+package-lock.json
+public
+*.tsbuildinfo
+supabase/migrations
+supabase/tests/*.sql
